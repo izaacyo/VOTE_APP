@@ -1,0 +1,31 @@
+h2 {
+  font-size: 4rem;
+  font-weight: bold;
+  padding-top: 3rem;
+  color: rgba(0, 0, 0, 0.938);
+}
+
+.coming-soon {
+  min-width: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background: url(../fingerprint2.png) no-repeat;
+  background-position: center;
+}
+
+.countdown {
+  display: inline-block;
+  justify-content: space-between;
+  padding-left: 4rem;
+  text-align: center;
+}
+.day,
+.hour,
+.minutes,
+.second,
+h3 {
+  font-size: 3rem;
+  color: rgb(0, 0, 0);
+}
