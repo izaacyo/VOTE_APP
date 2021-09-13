@@ -5,12 +5,43 @@
     {
     "id":1,
     "name": "Marius",
-    "age": 22
+    "age": 22,
+    "party": "PSD"
 },
 
 {   "id":2,
     "name": "Petrut",
-     "age": 22
+     "age": 22,
+     "party": "USR"
+
+    }, 
+
+{   "id":3,
+    "name": "Petrut",
+     "age": 22,
+     "party": "USR"
+
+    },
+
+{   "id":4,
+    "name": "Petrut",
+     "age": 22,
+     "party": "USR"
+
+    },
+
+{   "id":5,
+    "name": "Petrut",
+     "age": 22,
+     "party": "USR"
+
+    },
+
+{   "id":6,
+    "name": "Petrut",
+     "age": 22,
+     "party": "USR"
+
     }
    ]
 }

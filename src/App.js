@@ -14,7 +14,7 @@ const App = () => {
 
     useEffect(() => {
         dispatch(initializeCandidates());
-    }, [dispatch]);
+    }, { dispatch });
 
     return (
         <div>

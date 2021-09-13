@@ -1,0 +1,13 @@
+.cardd {
+  display: grid;
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+}
+
+.cardd > div {
+  background-color: rgb(228, 182, 205);
+  color: rgb(15, 10, 10);
+  font-size: 15px;
+  padding: 10px;
+}
